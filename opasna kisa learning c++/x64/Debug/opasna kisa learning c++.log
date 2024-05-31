@@ -1,0 +1,4 @@
+﻿  opasna kisa learning c++.cpp
+C:\Users\msvsv\source\repos\opasna kisa learning c++\opasna kisa learning c++\opasna kisa learning c++.cpp(24,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\msvsv\source\repos\opasna kisa learning c++\opasna kisa learning c++\opasna kisa learning c++.cpp(49): warning C4715: 'game': not all control paths return a value
+  opasna kisa learning c++.vcxproj -> C:\Users\msvsv\source\repos\opasna kisa learning c++\x64\Debug\opasna kisa learning c++.exe
